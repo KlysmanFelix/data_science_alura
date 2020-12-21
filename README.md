@@ -1,2 +1,2 @@
-# Projetos
-Projetos realizados ao longo do aprendizado em Data Science
+# Formação Data Science Alura
+Projeto de conclusão de aprendizado da formação em Data Science da Alura
